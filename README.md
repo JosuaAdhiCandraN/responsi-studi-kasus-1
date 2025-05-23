@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : josua adhi candra nugroho 
+NIU : 503935  
+Sesi : stuid kasus 1  
+Secret String : cdd8f4d46ad6fd8cf3a2d1c532f4341e10512110404cf586013ad1874a7979f620250523015059
 
 ## Checklist Responsi
 
